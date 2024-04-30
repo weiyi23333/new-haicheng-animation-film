@@ -1,0 +1,175 @@
+.body{
+
+        zoom: 80%;
+    
+}
+
+.wrapper{
+    width: 1400px;
+    margin: 0 auto;
+}
+li{
+    float: left;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.topbar{
+    height: 30px;
+    line-height: 30px;
+    background-color: #43d9f0;
+}
+.topbar .bar{
+    width: 400px;
+    height: 30px;
+    line-height: 30px;
+}
+.topbar .bar li{
+    margin-right: 10px;
+}
+.topbar li a{
+    color: #000000;
+    font-size: 14px;
+}
+.topbar .search input{
+height: 20px;
+width: 200px;
+border: none;
+background-color: #fff;
+}
+.topbar .search .inbtn{
+    border: none;
+    color: #fff;
+    height: 20px;
+    width: 30px;
+    background-color: #27d9f4;
+}
+.logobar{
+    width: 100%;
+    height: 80px;
+    background-color: #a5e8f2;
+}
+
+.nav{
+    height: 50px;
+    background-color: #08d9fa;
+}
+.nav li{
+    width: 220px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.nav li a{
+    color: #000;
+    font-size: 18px;
+}
+.nav li a:hover{
+    color: #fff;
+}
+.nav li:hover{
+    background-color: #fc559d;
+}
+.top_banner_box {
+    display: flex;
+    width: 1400px;
+    height: 400px;
+    background: #f7f7f7;
+    /* position: relative; */
+}
+
+
+
+.top_banner_box img {
+    left: 300px;
+    max-width: 100%; /* 确保图片不超出父容器宽度 */
+    height: auto; /* 保持原始宽高比 */
+}
+
+
+
+.title{
+    height: 30px;
+    line-height: 30px;
+    color: #700005;
+    border-bottom: 1px solid #43d9f0;
+}
+.tent{
+    height: 500px;
+    margin-top: 10px;
+}
+.tent .left{
+    width: 550px;
+}
+#content{
+    width: 550px;
+    margin: 20px auto;
+    padding: 0;
+    
+}
+#imgdiv{
+    width: 500px;
+    height: 300px;
+}
+#thumbs img{
+    border: solid 1px #ccc;
+    width: 125px;
+    height: 125px;
+    padding: 3px;
+}
+.ys{
+    margin-top: 4px;
+}
+.tent .right{
+    width: 615px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.tent .right li{
+    float: none;
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px #ccc dashed;
+}
+.tent .right a{
+    font-size: 14px;
+}
+.tent .right a:hover{
+    color: #700005;
+}
+.tit{
+    width: 191px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+#demo .tit a{
+        color: #007bff;
+        text-decoration: none;
+        background-color: transparent;
+}
+.footer{
+    height: 60px;
+    background-color: #7ee5f5;
+    margin-top: 10px;
+    padding: 5px 0;
+}
+.footer .f1{
+    width: 400px;
+    height: 20px;
+    margin: 0 auto;
+}
+.footer .f1 li{
+    width: 80px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    border-right: 1px solid #eee;
+}
+.footer .f1 li a{
+    color: #000000;
+    font-size: 15px;
+}
+
+   
